@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/naderlly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naderlly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/naderly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naderly" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/naderly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naderly" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
